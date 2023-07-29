@@ -1,9 +1,11 @@
 /*
   ===========================================
-       Copyright (c) 2017 Stefan Kremser
-              github.com/spacehuhn
+  Original Copyright (c) 2017 Stefan Kremser
+             github.com/spacehuhn
+  Modifications Copyright (c) 2023 LeonardSEO
   ===========================================
 */
+
 
 #include <enc28j60.h>
 #include <EtherCard.h>
